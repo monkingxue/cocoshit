@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="20" height="12" tilewidth="40" tileheight="40">
+ <tileset firstgid="1" name="SandGround" tilewidth="40" tileheight="40">
+  <image source="SandGround.png" width="80" height="40"/>
+ </tileset>
+ <tileset firstgid="3" name="TownBox" tilewidth="40" tileheight="40">
+  <image source="TownBox.png" width="40" height="44"/>
+ </tileset>
+ <tileset firstgid="4" name="SandStone" tilewidth="40" tileheight="40">
+  <image source="SandStone.png" width="40" height="47"/>
+ </tileset>
+ <tileset firstgid="5" name="SandTentBlue" tilewidth="40" tileheight="60">
+  <image source="SandTentBlue.png" width="132" height="71"/>
+ </tileset>
+ <layer name="background" width="20" height="12">
+  <data encoding="base64" compression="zlib">
+   eJxjZGBgYBzFo3gUD0kMAMevAPE=
+  </data>
+ </layer>
+ <layer name="stone" width="20" height="12">
+  <data encoding="base64" compression="zlib">
+   eJxjYKAuYKGyWTBMbbMoMRPZDGr7lxZqB7O9tIqPwRq/2NIhNnF8csh8ANIQAKk=
+  </data>
+ </layer>
+ <layer name="box" width="20" height="12">
+  <data encoding="base64" compression="zlib">
+   eJxjZmBgYKYipgdgJpFNqpmkyBFST6r7qBmGuOKEXPeRG0bUjAtyzcSmj17pFRfAlwaITR8AbO8AkQ==
+  </data>
+ </layer>
+ <layer name="tent" width="20" height="12">
+  <data encoding="base64" compression="zlib">
+   eJxjYKAPYCVTbiQCaoQHKw42NcwbBYTDg17hBQBO/AAp
+  </data>
+ </layer>
+</map>

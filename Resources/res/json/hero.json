@@ -1,0 +1,9 @@
+{
+	"ArmatureName" :   "Animation",
+	"Dataname"     :   "Animation.ExportJson",
+	"ID"           :   1,
+	"Speed"        :   3,
+	"PlayerName"   :   "kuanye",
+	"Position"     :   [60,72],
+	"RoleType"     :   1
+}

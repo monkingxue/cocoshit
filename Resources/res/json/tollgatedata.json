@@ -1,0 +1,28 @@
+{
+	"Tollgate":[
+		{
+			"Map"     :  "SandWorld.tmx",
+			"RoleData": [
+				"hero.json",
+				"monster_1.json"
+			],
+			"LogicMap":  "logicMapDt_1.json"
+		},
+		{
+			"Map"     :  "TownWorld.tmx",
+			"RoleData": [
+				"hero.json",
+				"monster_1.json"
+			],
+			"LogicMap":  "logicMapDt_2.json"
+		},
+		{
+			"Map"     :  "TreasureWorld.tmx",
+			"RoleData": [
+				"hero.json",
+				"monster_1.json"
+			],
+			"LogicMap":  "logicMapDt_3.json"
+		}
+	]
+}

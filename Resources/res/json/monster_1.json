@@ -1,0 +1,9 @@
+{
+	"ArmatureName" :   "MonsterAnimation",
+	"Dataname"     :   "MonsterAnimation.ExportJson",
+	"ID"           :   2,
+	"Speed"        :   3,
+	"PlayerName"   :   "fanzong",
+	"Position"     :   [350,72],
+	"RoleType"     :   2
+}

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="20" height="12" tilewidth="40" tileheight="40">
+ <tileset firstgid="1" name="地面2" tilewidth="40" tileheight="40">
+  <image source="地面2.png" width="40" height="40"/>
+ </tileset>
+ <tileset firstgid="2" name="TownBlockRed" tilewidth="40" tileheight="40">
+  <image source="TownBlockRed.png" width="40" height="44"/>
+ </tileset>
+ <tileset firstgid="3" name="TownBlockYellow" tilewidth="40" tileheight="40">
+  <image source="TownBlockYellow.png" width="40" height="44"/>
+ </tileset>
+ <tileset firstgid="4" name="TownBox" tilewidth="40" tileheight="40">
+  <image source="TownBox.png" width="40" height="44"/>
+ </tileset>
+ <tileset firstgid="5" name="TownBush" tilewidth="40" tileheight="40">
+  <image source="TownBush.png" width="40" height="57"/>
+ </tileset>
+ <tileset firstgid="6" name="TownHouseYellow" tilewidth="40" tileheight="57">
+  <image source="TownHouseYellow.png" width="40" height="57"/>
+ </tileset>
+ <tileset firstgid="7" name="TownHouseBlue" tilewidth="40" tileheight="57">
+  <image source="TownHouseBlue.png" width="40" height="57"/>
+ </tileset>
+ <tileset firstgid="8" name="TownHouseRed" tilewidth="40" tileheight="57">
+  <image source="TownHouseRed.png" width="40" height="57"/>
+ </tileset>
+ <layer name="background" width="20" height="12">
+  <data encoding="base64" compression="zlib">
+   eJxjZGBgYBzFo3gUD0kMAMevAPE=
+  </data>
+ </layer>
+ <layer name="redbricks" width="20" height="12">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgagGmA9A40INbtlKhjwiJOD3tpCUZKegEALogAGQ==
+  </data>
+ </layer>
+ <layer name="yellowbricks" width="20" height="12">
+  <data encoding="base64" compression="zlib">
+   eJxjYBjZgHkA1JJiDj69lJhDKzDY3MeMRpOrZrACAEAIACU=
+  </data>
+ </layer>
+ <layer name="boxes" width="20" height="12">
+  <data encoding="base64" compression="zlib">
+   eJxjYKAvYMHBpjegxG5au5sFjaaXXlLtGGgzBgMY6PQMAGMgADE=
+  </data>
+ </layer>
+ <layer name="bush" width="20" height="12">
+  <data encoding="base64" compression="zlib">
+   eJxjZWBgYKUyphYYNW/UvOFoHjUxADi2AS0=
+  </data>
+ </layer>
+ <layer name="yellowhouses" width="20" height="12">
+  <data encoding="base64" compression="zlib">
+   eJxjYBjagA0HexSMAmxguKUXADDwABk=
+  </data>
+ </layer>
+ <layer name="bluehouses" width="20" height="12">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgF1ADsA6R3FIxsAAAkrAAP
+  </data>
+ </layer>
+ <layer name="redhouses" width="20" height="12">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo4B0wDFAekcBKgAAGmAAEQ==
+  </data>
+ </layer>
+</map>

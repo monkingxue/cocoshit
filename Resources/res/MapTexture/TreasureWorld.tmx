@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="20" height="12" tilewidth="40" tileheight="40">
+ <tileset firstgid="1" name="ground3" tilewidth="40" tileheight="40">
+  <image source="ground3.png" width="40" height="40"/>
+ </tileset>
+ <tileset firstgid="2" name="animalstone" tilewidth="40" tileheight="53">
+  <image source="animalstone.png" width="40" height="53"/>
+ </tileset>
+ <tileset firstgid="3" name="tree" tilewidth="40" tileheight="40">
+  <image source="tree.png" width="40" height="45"/>
+ </tileset>
+ <tileset firstgid="4" name="stone" tilewidth="40" tileheight="50">
+  <image source="stone.png" width="40" height="50"/>
+ </tileset>
+ <tileset firstgid="5" name="plant" tilewidth="40" tileheight="68">
+  <image source="plant.png" width="40" height="68"/>
+ </tileset>
+ <layer name="background" width="20" height="12">
+  <data encoding="base64" compression="zlib">
+   eJxjZGBgYBzFo3gUD0kMAMevAPE=
+  </data>
+ </layer>
+ <layer name="animal stone" width="20" height="12">
+  <data encoding="base64" compression="zlib">
+   eJxjYmBgYKIyphYYNW/UvOFoHjUxAOWwAHk=
+  </data>
+ </layer>
+ <layer name="tree" width="20" height="12">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgF1ALMdNIzWMBI8+9gBAAaWAAN
+  </data>
+ </layer>
+ <layer name="stone" width="20" height="12">
+  <data encoding="base64" compression="zlib">
+   eJxjYBiZgIUAn1y1tAKkuG8gAAsaG51PbzDU4pdcAABh8AA5
+  </data>
+ </layer>
+ <layer name="cactus" width="20" height="12">
+  <data encoding="base64" compression="zlib">
+   eJxjYKAtYKWR2pEMWBlGw2qgwGBLzwA9zAAf
+  </data>
+ </layer>
+</map>

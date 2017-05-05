@@ -1,0 +1,63 @@
+<Solution>
+  <PropertyGroup Name="hugeproj" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="Loselayer">
+          <Image Name="lose_back.png" />
+          <Image Name="lose_back2.png" />
+          <Image Name="lose_exit.png" />
+          <Image Name="lose_exit2.png" />
+          <File Name="Loselayer.csb" />
+          <Project Name="Loselayer.csd" Type="Scene" />
+          <Image Name="losepage.png" />
+          <File Name="Scene.csb" />
+        </Folder>
+        <Folder Name="MainScene">
+          <Folder Name="ulres" />
+          <Audio Name="BACKground (1).mp3" />
+          <Image Name="close(2).png" />
+          <Image Name="close.png" />
+          <Image Name="EXITGAME.png" />
+          <Image Name="EXITGAME2.png" />
+          <File Name="game.ico" />
+          <Image Name="keybroad(1).png" />
+          <Image Name="keybroad(2).png" />
+          <Project Name="MainScene.csd" Type="Scene" />
+          <Image Name="MainSceneBackground.png" />
+          <Image Name="music_button.png" />
+          <Image Name="music_plan.png" />
+          <Image Name="music_slider.png" />
+          <Image Name="rocker(1).png" />
+          <Image Name="rocker(2).png" />
+          <Image Name="SETTING.png" />
+          <Image Name="SETTING2.png" />
+          <Image Name="STARTGAME.png" />
+          <Image Name="STARTGAME2.png" />
+        </Folder>
+        <Folder Name="Poplayer">
+          <Image Name="close(2).png" />
+          <Image Name="close.png" />
+          <Image Name="keybroad(1).png" />
+          <Image Name="keybroad(2).png" />
+          <Image Name="MainSceneBackground(1).png" />
+          <Image Name="music_button.png" />
+          <Image Name="music_plan.png" />
+          <Image Name="music_slider.png" />
+          <Project Name="Poplayer.csd" Type="Scene" />
+          <Image Name="popup.png" />
+          <Image Name="rocker(1).png" />
+          <Image Name="rocker(2).png" />
+        </Folder>
+        <Folder Name="Winlayer">
+          <Image Name="win_back.png" />
+          <Image Name="win_back2.png" />
+          <Image Name="win_exit.png" />
+          <Image Name="win_exit2.png" />
+          <Project Name="Winlayer.csd" Type="Scene" />
+          <Image Name="winpage.png" />
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
